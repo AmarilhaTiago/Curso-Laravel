@@ -21,7 +21,7 @@
         <th scope="col">Categoria</th>
         <th scope="col">Ano de Criação</th>
         <th scope="col">Valor</th>
-        <th scope="col">...</th>
+        <th scope="col">Editar/Deletar</th>
       </tr>
     </thead>
     <tbody>
